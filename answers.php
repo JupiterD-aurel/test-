@@ -1,10 +1,10 @@
 <?php
-$counter = 1;
+$i = 1;
 
-	while ($counter <= 10){
+	while ($i <= 10){
 
-		echo 'test <br/>';
-		$counter ++;
+		echo "$i <br/>";
+		$i ++;
 
 		}
 
