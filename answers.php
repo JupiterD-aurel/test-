@@ -1,6 +1,6 @@
 <?php
+$phrase = 'Bonjour je m\' appelle BOUDOH';
 
-$number = '12';
+echo $phrase;
 
-echo $number
 ?>
