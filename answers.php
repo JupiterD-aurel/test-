@@ -1,8 +1,11 @@
 <?php
-$nom = 'BOUDOH';
-$prenom = 'D-aurel';
-$phrase = "Bonjour je m/' appelle $nom $prenom";
+$counter = 1;
 
-echo $phrase ;
+	while ($counter <= 10){
+
+		echo 'test <br/>';
+		$counter ++;
+
+		}
 
 ?>
