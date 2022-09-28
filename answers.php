@@ -1,6 +1,8 @@
 <?php
-$phrase = 'Bonjour je m\' appelle BOUDOH';
+$nom = 'BOUDOH';
+$prenom = 'D-aurel';
+$phrase = "Bonjour je m/' appelle $nom $prenom";
 
-echo strpos($phrase, 'BOUDOH') !== false ;
+echo $phrase ;
 
 ?>
